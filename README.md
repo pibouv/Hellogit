@@ -1,7 +1,6 @@
 # hellogit
 
 Ressource GitHub : https://github.com/progit/progit2-fr
-https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github
 
 Les étapes pour créer un nouveau commit via le terminal sont :
 
